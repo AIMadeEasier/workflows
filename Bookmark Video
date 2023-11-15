@@ -1,0 +1,11 @@
+**Bookmark Video Work Flow**
+
+Here is the workflow for the bookmark generation.
+Drag and drop the file into your Comfy UI Workflow
+If you are using SWARM UI make sure to save the custom work flow.
+
+json version:
+https://github.com/AIMadeEasier/workflows/blob/main/assets/bookmark-workflow.json
+
+png version:
+![enter image description here](https://github.com/AIMadeEasier/workflows/blob/main/assets/Bookmark-Workflow.png)
